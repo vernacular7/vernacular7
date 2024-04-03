@@ -1,10 +1,10 @@
--- Hi, I’m @vernacular7 --
+**Hi, I’m @vernacular7**
 
-I’m interested in OriginOS and UX design
+I’m interested in HCI (Human Computer Interaction) and UX design
 
-I’m currently learning OSL and ICN
+I’m currently learning Godot (not really very productively)
 
-👽 I'm on here to organize assets for apps developed in OriginOS
+👽 I'm on here to organize assets for apps and store things lol
 
 How to reach me:
 - Discord (vernacular#0)
