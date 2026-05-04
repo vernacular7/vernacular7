@@ -9,4 +9,4 @@
 고위험 환경을 위한 인터페이스 디자인
 
 연락 방법:
-디스코드 (vernacular#0)
+Discord (vernacular#0)
