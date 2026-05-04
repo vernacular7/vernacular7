@@ -1,13 +1,12 @@
-**Hi, I’m @vernacular7**
+**안녕하세요, @vernacular7입니다**
 
-I’m interested in HCI (Human Computer Interaction) and UX design
+저는 HCI(인간-컴퓨터 상호작용)와 UX 디자인에 관심이 있으며, 특히 복잡한 시스템을 실제 환경에서 어떻게 활용할 수 있는지에 집중하고 있습니다.
 
-I’m currently learning Godot (not really very productively)
+다음과 같은 프로젝트를 진행하고 있습니다:
 
-👽 I'm on here to organize assets for apps and store things lol
+지진학 및 조기 경보 시스템 (알림 설계, 현지화, 사용자 반응)
+산업 시스템 시뮬레이션 (제어실, 위험 모델링, 공정 UX)
+고위험 환경을 위한 인터페이스 디자인
 
-How to reach me:
-- Discord (vernacular#0)
-
-🛸 gnarp gnarp (Thank you)
-
+연락 방법:
+디스코드 (vernacular#0)
